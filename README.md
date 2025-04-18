@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Naeem</h1>
 <h3 align="center">Flutter Developer | Software Engineer | Building Scalable Cross-Platform Apps</h3>
 
+- 🌱 I’m currently graduated **Nile Higher Institute For Engineering And Technology , major Communication And Electronics Engineering**
+
+- 👨‍💻 All of my projects are available at [https://mostaql.com/u/engMahmoudnaeem/portfolio](https://mostaql.com/u/engMahmoudnaeem/portfolio)
+
 - 💬 Ask me about **Flutter , Dart , Firebase , Git , GitHub**
+
+- 📫 How to reach me **engmahmoudnaeem28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
